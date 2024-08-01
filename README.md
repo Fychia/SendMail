@@ -1,7 +1,3 @@
-# SendMail
-Solução para grupo de suporte.
-
-
 ## About the Project
 
 This solution was developed to address a problem reported by the support team, who found it labor-intensive to manually inform clients of new features via email. The project's goal is to automate the creation and sending of these emails, streamlining the process and reducing manual effort.
